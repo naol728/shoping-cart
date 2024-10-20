@@ -1,0 +1,5 @@
+shoping cart tracker 
+it tracks the cart items 
+it track the cart items total price 
+customer can delete the cart items 
+so it will have 2 componets the items list componets and cart items componets 
