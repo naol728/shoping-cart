@@ -2,78 +2,78 @@ import { useState } from "react"
 function App() {
   const [items,setItems]=useState([{
     id:0,
-    itemname:"nike shirt",
+    itemname:"jordan 4",
     price:12,
     src:"jordan4.jpg",
     quantity:0
   },
   {
     id:1,
-    itemname:"nike shirt",
+    itemname:"jordan 11",
     price:15,
-    src:"jordan4.jpg",
+    src:"img1.jpg",
     quantity:0
   },
   {
     id:2,
-    itemname:"nike shirt",
+    itemname:"jordan 4",
     price:19,
-    src:"jordan4.jpg",
+    src:"img2.jpg",
     quantity:0
   },
   {
     id:3,
-    itemname:"nike shirt",
+    itemname:"airforce 1",
     price:11,
-    src:"jordan4.jpg",
+    src:"img3.jpg",
     quantity:0
   }
   ,
   {
     id:4,
-    itemname:"nike shirt",
+    itemname:"airforce high",
     price:23,
-    src:"jordan4.jpg",
+    src:"img4.jpg",
     quantity:0
   }
   ,
   {
     id:5,
-    itemname:"nike shirt",
+    itemname:"normal hoodie",
     price:34,
-    src:"jordan4.jpg",
+    src:"img5.jpg",
     quantity:0
   }
   ,
   {
     id:6,
-    itemname:"nike shirt",
+    itemname:"dickies hoodie",
     price:45,
-    src:"jordan4.jpg",
+    src:"img6.jpg",
     quantity:0
   }
   ,
   {
     id:7,
-    itemname:"nike shirt",
+    itemname:"dickies hoodie",
     price:43,
-    src:"jordan4.jpg",
+    src:"img7.jpg",
     quantity:0
   }
   ,
   {
     id:8,
-    itemname:"nike shirt",
+    itemname:"champion hoodie",
     price:21,
-    src:"jordan4.jpg",
+    src:"img8.jpg",
     quantity:0
   }
   ,
   {
     id:9,
-    itemname:"nike shirt",
+    itemname:"buggi jeans",
     price:42,
-    src:"jordan4.jpg",
+    src:"img9.jpg",
     quantity:0
   }])
   const [cartitem,setCartitem]=useState([])
